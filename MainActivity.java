@@ -3,7 +3,7 @@ package com.fantasyrugby.victor.fantasyrugby;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
