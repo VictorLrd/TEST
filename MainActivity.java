@@ -3,8 +3,7 @@ package com.fantasyrugby.victor.fantasyrugby;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public extends AppCompatActivity {
-
+public extends 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
